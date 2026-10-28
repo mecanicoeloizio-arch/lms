@@ -1,0 +1,7 @@
+{
+  "name": "Grupo Eloizio | Máquinas de Costura, Cursos & Assessoria - São Gonçalo RJ",
+  "description": "Líder em conserto, reforma e venda de máquinas de costura em São Gonçalo RJ. Cursos práticos online de mecânica industrial e assessoria contábil digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano de implementação da plataforma LMS Profissional Completa com arquitetura modular, RBAC multi-nível, gestão acadêmica, player do aluno, emissão e validação de certificados/carteirinhas/crachás com QR Code, integração com Mercado Pago (Pix/Cartão/Webhook idempotente), banco relacional PostgreSQL, suite de testes e exportador de scripts PHP/SQL para implantação direta no servidor.",
+  "updatedAt":  "2026-10-26T15:47:33.646900255Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
